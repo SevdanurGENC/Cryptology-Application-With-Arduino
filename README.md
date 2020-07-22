@@ -1,2 +1,2 @@
 # Cryptology-Application-With-Arduino
-Embedded System Design 
+This repo is designed to encrypt dna molecules using cryptology technology in an embedded system.
